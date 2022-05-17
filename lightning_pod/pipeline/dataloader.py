@@ -95,3 +95,7 @@ def get_data(
         train_size=train_size,
     )
     return dataset
+
+
+if __name__ == "__main__":
+    get_data(return_loader=False)
