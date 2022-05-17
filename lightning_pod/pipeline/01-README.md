@@ -1,0 +1,1 @@
+The intent of this module is to house scripts associated with the acquisition, preprocessing, and storage of data. Additionally, the script `modelhub.py` serves as a tool to automate pushing the finished, production model to Hugging Face's [Model Hub](https://huggingface.co/models), should the researcher choose to share the production model.

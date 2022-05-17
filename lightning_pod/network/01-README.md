@@ -1,0 +1,1 @@
+This module should be structured to contain all [LightningModule](https://pytorch-lightning.readthedocs.io/en/latest/common/lightning_module.html) layers in `model.py`, and `trainer.py` will contain code to interface with [Trainer](https://pytorch-lightning.readthedocs.io/en/latest/common/trainer.html).

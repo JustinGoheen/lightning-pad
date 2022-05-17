@@ -1,0 +1,27 @@
+# BASE [DO NOT DELETE]
+pytorch-lightning
+lightning-grid
+# TEXT
+lightning-transformers
+torchtext
+# VISION
+torchvision
+# AUDIO
+torchaudio
+# LIGHTNING ECOSYSTEM
+lightning-bolts
+lightning-flash
+# VS CODE TENSORBOARD SUPPORT
+torch-tb-profiler
+# PLOTTING AND SYMBOLIC MATH
+plotly
+matplotlib
+sympy
+# FORMMATING, LINTING, TESTING, STATIC TYPE CHECKING, COVERAGE
+black
+flake8
+pytest
+mypy
+coverage
+# TQDM SUPPORT IN NOTEBOOKS
+ipywidgets
