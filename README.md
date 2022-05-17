@@ -11,7 +11,7 @@ A template environment and system architecture for [PyTorch Lightning](https://w
 [![codecov](https://codecov.io/gh/JustinGoheen/clean-slate/branch/main/graph/badge.svg)](https://codecov.io/gh/JustinGoheen/clean-slate)
 ![CircleCI](https://circleci.com/gh/JustinGoheen/clean-slate.svg?style=shield)
 
-Refer to the [wiki](https://github.com/JustinGoheen/clean-slate/wiki) for additional information and guides.
+Refer to the [wiki](https://github.com/JustinGoheen/lightning-pod/wiki) for additional information and guides.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/JustinGoheen/clean-slate)
 
