@@ -20,6 +20,7 @@ dependencies:
       - plotly
       - pytest
       - pytorch-lightning
+      - scikit-learn
       - torchaudio
       - torchtext
       - torchvision
