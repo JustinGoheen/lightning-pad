@@ -4,6 +4,7 @@ tasks:
       pip3 install -r requirements.txt
       pip3 install -e .
   - name: get MNIST
+    init: gp sync-await bundle
     command: python3 lightning_pod/pipeline/dataloader.py
 
 vscode:
