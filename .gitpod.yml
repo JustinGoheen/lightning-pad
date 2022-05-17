@@ -3,6 +3,8 @@ tasks:
     init: |
       pip3 install -r requirements.txt
       pip3 install -e .
+  - name: get MNIST
+    command: python3 lightning_pod/pipeline/dataloader.py
 
 vscode:
   extensions:
