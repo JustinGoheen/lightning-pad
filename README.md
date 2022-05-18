@@ -2,7 +2,7 @@
 
 # Lightning Pod, Clean Slate
 
-A template environment and system architecture for [PyTorch Lightning](https://www.pytorchlightning.ai/) and [Grid.ai](https://www.grid.ai/) with no examples.
+A template environment for Machine Learning research with [PyTorch Lightning](https://www.pytorchlightning.ai/)
 
 ![](https://img.shields.io/badge/PyTorch_Lightning-Ecosystem-informational?style=flat&logo=pytorchlightning&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Grid.ai-Compute-informational?style=flat&logo=grid.ai&logoColor=white&color=2bbc8a)
