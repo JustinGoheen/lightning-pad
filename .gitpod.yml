@@ -1,7 +1,10 @@
 tasks:
   - name: install dependencies
     init: |
+      pyenv install 3.10.4
+      pyenv global 3.10.4
       pip3 install -r requirements.txt
+      pip3 install -e .
     command: python3 lightning_pod/pipeline/dataloader.py
 
 vscode:
