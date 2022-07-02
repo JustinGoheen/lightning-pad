@@ -2,7 +2,7 @@
 
 # Lightning Pad
 
-A template environment [Lightning.ai](https://lightning.ai) for ML focused interviews.
+A template [Lightning.ai](https://lightning.ai) environment for ML focused interviews.
 
 ![](https://img.shields.io/badge/PyTorch_Lightning-Ecosystem-informational?style=flat&logo=pytorchlightning&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Grid.ai-Compute-informational?style=flat&logo=grid.ai&logoColor=white&color=2bbc8a)
