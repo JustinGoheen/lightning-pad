@@ -1,1 +1,0 @@
-This directory should be used to house notebooks associated with data analysis and visualization, and creating notebook based tutorials and presentations that cover the core model and research.
