@@ -11,7 +11,7 @@ Users are provided with a GitHub Codespace .devcontainer and a Gitpod yaml; enab
 
 See the requirements.txt file for base libraries
 
-A example is located at [lightning-pod](https://github.com/JustinGoheen/lightning-pod), and a prep guide is located at [lightning-engineer](https://justingoheen.github.io/lightning-engineer/)
+An example is located at [lightning-pod](https://github.com/JustinGoheen/lightning-pod), and a prep guide is located at [lightning-engineer](https://justingoheen.github.io/lightning-engineer/)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/JustinGoheen/lightning-pad)
 
