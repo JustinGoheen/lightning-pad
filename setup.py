@@ -2,10 +2,10 @@ from setuptools import setup
 from setuptools import find_packages
 
 setup(
-    name="lightning-pod",
+    name="lightning-pad",
     version="0.0.1",
     description="An interview tool",
-    url="https://github.com/JustinGoheen/lightning-pod",
+    url="https://github.com/JustinGoheen/lightning-pad",
     author="Justin Goheen",
     license="MIT",
     install_requires=[],
