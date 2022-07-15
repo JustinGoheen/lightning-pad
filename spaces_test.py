@@ -1,14 +1,15 @@
+import platform
+
+import lightning_app as la
+import mypy
 import numpy as np
-import torchmetrics as tm
+import pre_commit
+import pytest
+import pytorch_lightning as pl
 import sklearn as sk
 import torch as t
-import pytorch_lightning as pl
-import lightning_app as la
+import torchmetrics as tm
 from rich import print as rprint
-import platform
-import pytest
-import mypy
-import pre_commit
 
 libs = [t, pl, la, tm, np, sk, pytest, mypy, pre_commit]
 
