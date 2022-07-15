@@ -32,6 +32,7 @@ flake8
 pytest
 mypy
 coverage
+pre-commit
 # TQDM SUPPORT IN NOTEBOOKS
 ipywidgets
 # PIN PROTOBUF TO 3.20 TO AVOID 4.12 ERRORS IN CI/CD
