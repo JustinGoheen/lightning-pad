@@ -1,17 +1,27 @@
 import platform
 
-import lightning_app as la
+import lightning_app
 import mypy
 import numpy as np
 import pre_commit
 import pytest
-import pytorch_lightning as pl
-import sklearn as sk
-import torch as t
-import torchmetrics as tm
+import pytorch_lightning
+import sklearn
+import torch
+import torchmetrics
 from rich import print as rprint
 
-libs = [t, pl, la, tm, np, sk, pytest, mypy, pre_commit]
+libs = [
+    torch,
+    pytorch_lightning,
+    lightning_app,
+    torchmetrics,
+    np,
+    sklearn,
+    pytest,
+    mypy,
+    pre_commit,
+]
 
 print()
 rprint("[bold green]ENV VERSIONS:[/bold green]", end="\n\n")
